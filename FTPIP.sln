@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPIP", "FTPIP\FTPIP.csproj", "{A64950C4-C9A8-4DFB-8B27-DD8E02F89CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64950C4-C9A8-4DFB-8B27-DD8E02F89CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64950C4-C9A8-4DFB-8B27-DD8E02F89CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64950C4-C9A8-4DFB-8B27-DD8E02F89CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64950C4-C9A8-4DFB-8B27-DD8E02F89CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1B1F044-68FA-47B0-B2AA-497D31EA3BDB}
+	EndGlobalSection
+EndGlobal

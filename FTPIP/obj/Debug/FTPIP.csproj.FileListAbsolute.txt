@@ -1,0 +1,7 @@
+C:\Users\zvolenszki.benjamin\source\repos\FTPIP\FTPIP\bin\Debug\FTPIP.exe.config
+C:\Users\zvolenszki.benjamin\source\repos\FTPIP\FTPIP\bin\Debug\FTPIP.exe
+C:\Users\zvolenszki.benjamin\source\repos\FTPIP\FTPIP\bin\Debug\FTPIP.pdb
+C:\Users\zvolenszki.benjamin\source\repos\FTPIP\FTPIP\obj\Debug\FTPIP.csprojAssemblyReference.cache
+C:\Users\zvolenszki.benjamin\source\repos\FTPIP\FTPIP\obj\Debug\FTPIP.csproj.CoreCompileInputs.cache
+C:\Users\zvolenszki.benjamin\source\repos\FTPIP\FTPIP\obj\Debug\FTPIP.exe
+C:\Users\zvolenszki.benjamin\source\repos\FTPIP\FTPIP\obj\Debug\FTPIP.pdb
